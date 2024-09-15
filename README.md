@@ -38,5 +38,12 @@ Each stage was analyzed to calculate the conversion rates and identify where use
 3. **Targeted Marketing:** Focus on iOS users, given their higher engagement rates and revenue potential.
 4. **Dynamic Pricing:** Implement surge pricing strategies during peak demand hours to optimize revenue while maintaining a high conversion rate from ride requests to payments.
 
-    [Video Presentation](https://drive.google.com/file/d/10xDIiL5h5jSMF3I7Gr1JKKrNbzKfmnks/view?usp=sharing)
+ ### Co-authors:
+ [Rama Al Homsi](https://github.com/rama-alhomsi)
+ [lanafrenzel](https://github.com/lanafrenzel)
+ [Claire Briatore](https://github.com/clairebriatore)
+ [Prudensy Opit](https://github.com/prudensy)
+ 
+
+ [Video Presentation](https://drive.google.com/file/d/10xDIiL5h5jSMF3I7Gr1JKKrNbzKfmnks/view?usp=sharing)
 
