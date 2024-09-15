@@ -44,6 +44,6 @@ Each stage was analyzed to calculate the conversion rates and identify where use
  * [Claire Briatore](https://github.com/clairebriatore)
  * [Prudensy Opit](https://github.com/prudensy)
  
-
+### Resources:
  [Video Presentation](https://drive.google.com/file/d/10xDIiL5h5jSMF3I7Gr1JKKrNbzKfmnks/view?usp=sharing)
 
